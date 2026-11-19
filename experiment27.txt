@@ -1,0 +1,5 @@
+Experiment 27
+Committing and Pushing Changes to GitHub
+
+This experiment demonstrates how to commit
+and push local changes to a GitHub repository.
